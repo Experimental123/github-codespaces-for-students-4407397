@@ -4,8 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
-        <p>
+             <p>
           Obakeng Mabele <span className="heart">♥️</span> React :)
         </p>
         <p className="small">
